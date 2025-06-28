@@ -1,4 +1,6 @@
 @import "tailwindcss";
+/* public/models/clock.obj */
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
